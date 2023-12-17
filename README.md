@@ -1,0 +1,1 @@
+Inspired by XAMK's IVGC course Module 2 game, "The Return" is a text-based adventure game developed in Unity. The player types commands in the input field at the bottom of the game window and observes the outcome of their actions plus a log of previous outcomes.
